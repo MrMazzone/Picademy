@@ -1,4 +1,4 @@
-# Picademy Toronto
+# Picademy
 Helpful files for your Picademy projects
   
   
