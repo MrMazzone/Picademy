@@ -1,4 +1,4 @@
-import smtplib                      #load smtp module
+import smtplib  #load smtp module
 
 
 def send_email(recipient, subject, text): #send_email function definition
@@ -13,9 +13,9 @@ def send_email(recipient, subject, text): #send_email function definition
     smtpserver.quit()                                           #terminate smtp session
 
 
-#main
-GMAIL_USER = 'your usr name@gmail.com'    #assign sender's email address
+GMAIL_USER = 'your usr name@gmail.com'          #assign sender's email address
 GMAIL_PASS = 'your password'                    #assign sender's email pw
 SMTP_SERVER = 'smtp.gmail.com'                  #assign email service provider
 SMTP_PORT = 587                                 #assign email service port
+
 send_email('recipient email addr', 'test1', 'this is a test')  #send_email function call
