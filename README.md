@@ -15,3 +15,13 @@ Free Raspberry Pi Press Books --> https://www.raspberrypi.org/magpi/issues/ (PDF
   
 ### Topic Resources  
 - Reading and Writing CSV Files in Python --> https://realpython.com/python-csv/  
+- Playing and Recording Sound in Python --> https://realpython.com/playing-and-recording-sound-python/  
+- Interactive Data Visualization in Python With Bokeh --> https://realpython.com/python-data-visualization-bokeh/  
+- How to Make a Twitter Bot in Python With Tweepy --> https://realpython.com/twitter-bot-python-tweepy/  
+- Generating Random Data in Python --> https://realpython.com/python-random/  
+- Face Recognition with Python --> https://realpython.com/face-recognition-with-python/  
+- Working With JSON Data in Python --> https://realpython.com/python-json/  
+- HTTP Requests with Python --> https://realpython.com/python-requests/  
+- How to Round Numbers in Python --> https://realpython.com/python-rounding/  
+- Google Sheets Python Tutorial --> https://techwithtim.net/tutorials/google-sheets-python-api-tutorial/  
+- Text to Speech with Python on the Pi --> https://www.dexterindustries.com/howto/make-your-raspberry-pi-speak/  
