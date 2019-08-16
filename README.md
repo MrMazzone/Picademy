@@ -13,6 +13,7 @@ Free Raspberry Pi Press Books --> https://www.raspberrypi.org/magpi/issues/ (PDF
 - PiCamera Docs --> https://picamera.readthedocs.io/en/release-1.13/  
 - Sense HAT Docs --> https://pythonhosted.org/sense-hat/api/  
 - Explorer HAT Docs --> https://github.com/pimoroni/explorer-hat/tree/master/documentation  
+- SimpleCV Docs --> https://simplecv.readthedocs.io/en/latest/  
   
   
 ### Topic Resources  
