@@ -11,6 +11,8 @@ Free Raspberry Pi Press Books --> https://www.raspberrypi.org/magpi/issues/ (PDF
 - GPIO Zero Docs --> https://gpiozero.readthedocs.io/en/stable/  
 - GUI Zero Docs --> https://www.pydoc.io/pypi/guizero-0.5.3/index.html  
 - PiCamera Docs --> https://picamera.readthedocs.io/en/release-1.13/  
+- Sense HAT Docs --> https://pythonhosted.org/sense-hat/api/  
+- Explorer HAT Docs --> https://github.com/pimoroni/explorer-hat/tree/master/documentation  
   
   
 ### Topic Resources  
